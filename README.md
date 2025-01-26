@@ -10,21 +10,21 @@ Joram Wayne
 
 Setup Instructions
 
-Clone this repository to your local machine.
+1.Clone this repository to your local machine.
 
-Open index.html in your web browser.
+2.Open index.html in your web browser.
 
-Enter your birth date and select your gender.
+3.Enter your birth date and select your gender.
 
-Click the submit button to see your Akan name.
+4.Click the submit button to see your Akan name.
 
 Behavior-Driven Development (BDD)
 
-Input: Valid date of birth (day, month, and year)Output: Displays the corresponding Akan name.
+a.Input: Valid date of birth (day, month, and year)Output: Displays the corresponding Akan name.
 
-Input: Invalid year of birth (e.g., year outside 1990-2025)Output: Prompts the user to enter a year within the range of 1990-2025.
+b.Input: Invalid year of birth (e.g., year outside 1990-2025)Output: Prompts the user to enter a year within the range of 1990-2025.
 
-Input: Invalid month (e.g., month outside 1-12)Output: Prompts the user to enter a valid month between 1 and 12.
+c.Input: Invalid month (e.g., month outside 1-12)Output: Prompts the user to enter a valid month between 1 and 12.
 
 Technologies Used
 
