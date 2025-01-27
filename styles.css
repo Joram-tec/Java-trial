@@ -90,7 +90,7 @@ button[type="submit"] {
     padding: 10px 15px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
+    cursor: none;
     transition: background-color 0.3s ease;
     width: 100%;
 }
@@ -150,7 +150,7 @@ gender-label{
     align-items: center;
     gap: 10px;
     font-size: 1.2rem;
-    cursor: pointer;
+    cursor: none;
     background-color: #f4f7fc;
     padding: 10px 20px;
     border: 2px solid #ccc;
